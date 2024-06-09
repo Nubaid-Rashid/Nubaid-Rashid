@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://app.daily.dev/thefox"><img src="https://api.daily.dev/devcards/v2/yJnXD9sHEzT20TjeyIrHG.png?type=wide&r=qak" width="652" alt="The Fox's Dev Card"/></a>
 
 <!--
 **Nubaid-Rashid/Nubaid-Rashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
